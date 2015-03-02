@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Medar's blog
 header-img: img/home-bg.jpg
 email: medar.lol@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "No description"
 baseurl: ""
 url: "http://medar.pp.ua"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+#twitter_username: SBootstrap
+github_username: medvedar 
+facebook_username: medar 
 
 # Build settings
 markdown: kramdown
